@@ -1,0 +1,7 @@
+git init
+git add
+git commit -m "QA automation framework: Selenium, API, CI/CD"
+git branch -M main
+git remote add origin
+https://github.com/wealthpromise2012/qa-automation-project.git
+git push -u origin main
